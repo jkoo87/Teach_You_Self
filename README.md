@@ -1,24 +1,12 @@
-# Teach_You_Self
+# Teach_You_Self: Three.js
 
 ##Why did you choose this subject?
 
-
-
-##How were you first made aware of it?
-
-
+- After learning about frameworks, we wanted to explore something different.
 
 ##What problem does it solve?
 
-
-
-##How does it solve the problem (conceptually)?
-
-
-
-##Why does one use it?
-
-
+- Three.js allows 3d animations using the JavaScript language only(no browser plugins needed) .
 
 ##What are the alternatives?
 
@@ -36,6 +24,7 @@
 
 - The origins of the library can be traced back to his involvement with the demoscene in the early 2000s. The code was first developed in ActionScript, then in 2009 ported to JavaScript. In Cabello's mind, the two strong points for the transfer to JavaScript were not having to compile the code before each run and platform independence. With the advent of WebGL, Paul Brunt was able to add the renderer for this quite easily as Three.js was designed with the rendering code as a module rather than in the core itself.[7] Cabello's contributions include API design, CanvasRenderer, SVGRenderer and being responsible for merging the commits by the various contributors into the project.
 
+
 ##Who built it and why?
 
 - Three.js was first released by Ricardo Cabello.
@@ -46,11 +35,13 @@
 
 ##What is your opinion on the technology after having built something with it?
 
+<<<<<<< HEAD
 
 
 ##What are the biggest conceptual hurdles (if any) you encountered when researching this?
 
--
+- None of us knew anything about graphical program language that it took a while for us to figure out how to generate and display 3d objects.
+
 
 ##What resources do you recommend for interested students?
 
