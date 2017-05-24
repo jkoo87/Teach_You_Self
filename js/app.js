@@ -23,16 +23,11 @@ scene.add(light);
 
 
 
-var loader = new THREE.JSONLoader();
-        loader.load( 'js/untitle.json', function ( geometry ) {
-        var mesh = new THREE.Mesh( geometry, new THREE.MeshBasicMaterial() );
-
-                        mesh.position.x =500;
-                        mesh.position.y =100;
-                        mesh.position.z =500;
-        scene.add( mesh );
-
-        });
+var loader = new THREE.JSONLoader().load("js/untitled.json", function(geometry, material){
+  var material = new THREE.MultiMaterial(materials);
+  mesh = new THREE.Mesh(geometry, material);
+  scene.add(mesh);
+})
 //move the camera back
 camera.position.z = 2;
 
