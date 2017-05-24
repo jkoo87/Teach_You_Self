@@ -1,24 +1,12 @@
-# Teach_You_Self
+# Teach_You_Self: Three.js
 
 ##Why did you choose this subject?
 
-
-
-##How were you first made aware of it?
-
-
+- After learning about frameworks, we wanted to explore something different.
 
 ##What problem does it solve?
 
-
-
-##How does it solve the problem (conceptually)?
-
-
-
-##Why does one use it?
-
-
+- Three.js allows 3d animations using the JavaScript language only(no browser plugins needed) .
 
 ##What are the alternatives?
 
@@ -34,11 +22,11 @@
 
 ##What is the history of this technology?
 
-
+- Three.js was first released by Ricardo Cabello(AKA mr.doob) to GitHub in April 2010.
 
 ##Who built it and why?
 
-- Three.js was first released by Ricardo Cabello. 
+- Three.js was first released by Ricardo Cabello.
 
 ##Who is maintaining it?
 
@@ -46,10 +34,7 @@
 
 ##What is your opinion on the technology after having built something with it?
 
-
-
-##What are the biggest conceptual hurdles (if any) you encountered when researching this?
-
+- None of us knew anything about graphical program language that it took a while for us to figure out how to generate and display 3d objects. 
 
 
 ##What resources do you recommend for interested students?
