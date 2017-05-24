@@ -38,7 +38,7 @@
 
 ##Who built it and why?
 
-- Three.js was first released by Ricardo Cabello to GitHub in April 2010. The origins of the library can be traced back to his involvement with the demoscene in the early 2000s. The code was first developed in ActionScript, then in 2009 ported to JavaScript.
+- Three.js was first released by Ricardo Cabello. 
 
 ##Who is maintaining it?
 
