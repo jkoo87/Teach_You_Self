@@ -34,11 +34,11 @@
 
 ##What is the history of this technology?
 
-
+- The origins of the library can be traced back to his involvement with the demoscene in the early 2000s. The code was first developed in ActionScript, then in 2009 ported to JavaScript. In Cabello's mind, the two strong points for the transfer to JavaScript were not having to compile the code before each run and platform independence. With the advent of WebGL, Paul Brunt was able to add the renderer for this quite easily as Three.js was designed with the rendering code as a module rather than in the core itself.[7] Cabello's contributions include API design, CanvasRenderer, SVGRenderer and being responsible for merging the commits by the various contributors into the project.
 
 ##Who built it and why?
 
-- Three.js was first released by Ricardo Cabello. 
+- Three.js was first released by Ricardo Cabello.
 
 ##Who is maintaining it?
 
@@ -50,7 +50,7 @@
 
 ##What are the biggest conceptual hurdles (if any) you encountered when researching this?
 
-
+-
 
 ##What resources do you recommend for interested students?
 
